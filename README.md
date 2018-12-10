@@ -12,13 +12,15 @@ HTML to PDF Conversion.
 
 This script helps to convert an HTML file to PDF format with just 2 lines of code. Install pdfkit library using pip.
 
-```pip install pdfkit```
+```python
+pip install pdfkit```
 
 Then download "wkhtmltopdf"
 
 1) Linux
 
-```sudo apt-get install wkhtmltopdf```
+```sh
+sudo apt-get install wkhtmltopdf```
 
 2) Windows
 
