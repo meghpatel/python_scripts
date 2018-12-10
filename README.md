@@ -4,21 +4,21 @@ Some python easy-to-use tools/scripts to automate tasks.
 Automated Email using CSV Contacts.
 -----
 
-```The first automated script is of email automation using csv. It helps you send personalised emails. Just create a CSV file of contacts and message in HTML or text form. Follow the instructions written in the code. ```
+The first automated script is of email automation using csv. It helps you send personalised emails. Just create a CSV file of contacts and message in HTML or text form. Follow the instructions written in the code. 
 
 
 HTML to PDF Conversion.
 -----
 
-```This script helps to convert an HTML file to PDF format with just 2 lines of code. Install pdfkit library using pip.```
+This script helps to convert an HTML file to PDF format with just 2 lines of code. Install pdfkit library using pip.
 
-~~~~pip install pdfkit~~~~
+```pip install pdfkit```
 
-```Then download "wkhtmltopdf"```
+Then download "wkhtmltopdf"
 
 1) Linux
 
-~~~~sudo apt-get install wkhtmltopdf~~~~
+```sudo apt-get install wkhtmltopdf```
 
 2) Windows
 
